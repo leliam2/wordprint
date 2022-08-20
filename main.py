@@ -7,7 +7,7 @@ def print_word(word, num):
         print(word)
 
 if __name__ == '__main__':
-    
+    print("BYE, LELIA!")    
     n = len(sys.argv)
     print("Total arguments passed:", n)
     
